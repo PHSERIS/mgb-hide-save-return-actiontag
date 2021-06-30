@@ -1,0 +1,25 @@
+{
+	"name": "MGB Hide Save & Return ActionTag",
+
+	"namespace": "MGB\\HideSaveReturnActionTag",
+
+	"authors": [
+		{
+			"name": "David Clark",
+			"email": "dclark@partners.org",
+			"institution": "Mass General Brigham"
+		}
+	],
+
+    "framework-version": 3,
+	
+	"permissions": [
+		"redcap_every_page_before_render",
+        "redcap_data_entry_form_top",
+		"redcap_survey_page_top"
+	],
+
+	"description": "Hide the default Save & Return button on survey pages  that have this field visible."
+
+	
+}
