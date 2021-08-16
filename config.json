@@ -19,7 +19,7 @@
 		"redcap_survey_page_top"
 	],
 
-	"description": "Hide the default Save & Return button on survey pages  that have this field visible."
+	"description": "Adds @HIDESAVEANDRETURN  ActionTag to hide the default Save & Return button on survey pages."
 
 	
 }

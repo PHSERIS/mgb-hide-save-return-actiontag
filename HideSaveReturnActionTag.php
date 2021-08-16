@@ -19,7 +19,7 @@ class HideSaveReturnActionTag extends AbstractExternalModule
 {
     protected $is_survey = 0;
 
-    protected  static $Tags =  array('@HIDESAVEANDRETURN' => array('description' => 'Hide the default ß on survey pages  that have this field visible. ') );
+    protected  static $Tags =  array('@HIDESAVEANDRETURN' => array('description' => 'Hide the default "save and return"  button  on survey pages  that have this field visible. ') );
 
     public function redcap_data_entry_form_top($project_id, $record = null, $instrument, $event_id, $group_id = null, $repeat_instance = 1)
     {
