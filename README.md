@@ -13,3 +13,5 @@ Add @HIDESAVEANDRETURN to the "Action Tags / Field Annotation" field.
 
 ## Other info
 This differs from the HideSaveReturnBtn external module in that HideSaveReturnBtn disables the button for all pages in all  surveys of a project. Instead, this just adds an action tag  that can be used on specific pages of particular surveys.
+
+© 2021 Mass General Brigham (formerly Partners HealthCare, Inc). All Rights Reserved.
